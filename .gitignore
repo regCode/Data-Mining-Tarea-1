@@ -1,0 +1,15 @@
+# Directories #
+###################
+
+.ipynb_checkpoints/
+
+# Packages #
+############
+
+*.zip
+*.tar
+*.tar.gz
+
+# Cosas #
+#########
+beer_reviews/beer_reviews.csv
